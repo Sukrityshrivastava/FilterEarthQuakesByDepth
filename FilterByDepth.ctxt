@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=quakeData\ minDepth\ maxDepth
+comment0.target=java.util.ArrayList\ filterByDepth(java.util.ArrayList,\ double,\ double)
+comment1.params=
+comment1.target=void\ quakesOfDepth()
+numComments=2
